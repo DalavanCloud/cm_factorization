@@ -1,4 +1,4 @@
-# cm_factorization
+# CM-based factorization
 Complex multiplication based factorization
 
 
